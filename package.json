@@ -7,7 +7,7 @@
         "pack": "electron-packager . luogu --all --out ../luogu --icon=luogu.icon --app-version=0.1.0"
     },
     "devDependencies": {
-        "electron": "^8.0.1",
+        "electron": "^8.2.4",
         "electron-packager": "^14.2.1"
     }
 }
